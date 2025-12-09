@@ -1,8 +1,8 @@
 # Final Assessment — Machine Learning Model
 
-## 1. Pair Information
-- Pair Name:
-- Members:
+## ℹ️ 1. Pair Information
+- Pair Name: Navigators
+- Members: 
 - Topic:
 - Chosen Model: Linear Regression / Logistic Regression
 
