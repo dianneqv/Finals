@@ -1,9 +1,9 @@
-# 🤖 Final Assessment — Machine Learning Model
+# 👨‍💻 Final Assessment — Machine Learning Model
 
 ## ℹ️ 1. Pair Information
-- Pair Name: Navigators
-- Members: Jhun Kenji Jusay and Dianne Mae Vinegas
-- Topic:
+- ✍️ Pair Name: Navigators
+- 👥 Members: Jhun Kenji Jusay and Dianne Mae Vinegas
+- 🤖 Topic: Robot Navigation in Dynamic 3D Environments
 - Chosen Model: Linear Regression / Logistic Regression
 
 ## 2. Dataset Overview
