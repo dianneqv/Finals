@@ -8,7 +8,7 @@
 
 ## 2. Dataset Overview
 - Dataset Source: https://www.kaggle.com/datasets/ziya07/robot-navigation-in-dynamic-3d-environments 
-- Description:
+- Description: This dataset evaluates the performance of pathfinding algorithms in robot navigation tasks across varying levels of environmental complexity and obstacle density. It contains simulated data for robot navigation in dynamic 3D environments, intended for studying path planning and obstacle avoidance.
 - Target Variable:
 - Features Used:
 
