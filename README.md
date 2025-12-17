@@ -45,6 +45,11 @@
   <p align="center">
 
 - **Visualizations**:
+
+![IMG_2596](https://github.com/user-attachments/assets/d7024d90-d201-419a-a0e9-b9ecd40c1dc0)
+
+![IMG_2597](https://github.com/user-attachments/assets/479b8f8d-e503-48b7-a5a5-74e333c3aa0c)
+
 - **Insights**:
 
   - The model demonstrates strong overall performance, correctly predicting the majority of cases with an accuracy of approximately 87%, indicating reliable classification results. In addition, the AUC value of 0.94 is exceptionally high, showing that the model has an excellent ability to distinguish between successful and unsuccessful robot pathfinding outcomes across various decision thresholds.
