@@ -48,9 +48,9 @@
 
   - Predicting Class 0 more effectively with higher precision and recall, while performance for Class 1 is slightly lower, indicating greater difficulty in correctly identifying this class
 
- - Collision avoidance rate and energy efficiency strongly influence the model’s predictions, showing consistent effects on pathfinding success and making them the primary predictors in decision-making.
+  - Collision avoidance rate and energy efficiency strongly influence the model’s predictions, showing consistent effects on pathfinding success and making them the primary predictors in decision-making.
 
- - To further improve performance, evaluate other models such as Random Forest, Gradient Boosting, or Nueral Network, as these can better capture nonlinear relationships and complex feature interactions.
+  - To further improve performance, evaluate other models such as Random Forest, Gradient Boosting, or Nueral Network, as these can better capture nonlinear relationships and complex feature interactions.
   <p align="center">
 
 ## ▶️ 5. How to Run
