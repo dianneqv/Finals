@@ -38,6 +38,7 @@
 
 ## 📊 4. Model & Results
 - **Model used**: Logistic Regression
+![IMG_2592](https://github.com/user-attachments/assets/19628034-154a-45d1-917b-0429a3e1e11c)
 
 - **Metrics**:
   -  **Accuracy** = 87%
