@@ -36,11 +36,11 @@
 
 ## 📊 4. Model & Results
 - **Model used**: Logistic Regression
-- **Metrics**:
--  **Accuracy** =
--  **Precision** =
--  **Recall** =
--  **F1-Score** =
+  - **Metrics**:
+  -  **Accuracy** =
+  -  **Precision** =
+  -  **Recall** =
+  -  **F1-Score** =
   <p align="center">
 
 - **Visualizations**:
