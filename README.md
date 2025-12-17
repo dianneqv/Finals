@@ -36,7 +36,13 @@
 
 ## 📊 4. Model & Results
 - **Model used**: Logistic Regression
-- **Metrics**: 
+- **Metrics**:
+
+- **Accuracy** =
+- **Precision** =
+- **Recall** =
+- **F1-Score** =
+
 - **Visualizations**:
 - **Insights**: (3–5)
 
