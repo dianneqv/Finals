@@ -30,7 +30,7 @@
 
 ## 📃 3. Preprocessing Summary
 - **Encoding**: All categorical variables were converted into numerical values to make them compatible with the machine learning model.
-- **Scaling**:
+- **Scaling**: Numerical features were scaled to a common range to prevent any single feature from dominating the model.
 - **Cleaning steps**:
 - **Train–test split**:
 
