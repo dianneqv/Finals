@@ -38,10 +38,10 @@
 - **Model used**: Logistic Regression
 - **Metrics**:
 
-- **Accuracy** =
-- **Precision** =
-- **Recall** =
-- **F1-Score** =
+ **Accuracy** =
+ **Precision** =
+ **Recall** =
+ **F1-Score** =
 
 - **Visualizations**:
 - **Insights**: (3–5)
