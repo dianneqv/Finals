@@ -31,8 +31,8 @@
 ## 📃 3. Preprocessing Summary
 - **Encoding**: All categorical variables such as `Pathfinding Success` were were transformed into numerical values using one-hot encoding to make them compatible with the machine learning model.
 - **Scaling**: Numerical features were scaled to a common range to prevent any single feature from dominating the model.
-- **Cleaning steps**:
-- **Train–test split**:
+- **Cleaning steps**: Missing values and inconsistent data entries were checked and handled to ensure data quality.
+- **Train–test split**: The dataset was divided into training and testing sets to evaluate model performance on unseen data.
 
 ## 📊 4. Model & Results
 - **Model used**: Logistic Regression
