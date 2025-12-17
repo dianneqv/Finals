@@ -38,10 +38,7 @@
 - **Model used**: Logistic Regression
 
 - **Metrics**:
-  -  **Accuracy** =
-  -  **Precision** =
-  -  **Recall** =
-  -  **F1-Score** =
+  -  **Accuracy** = 87%
   <p align="center">
 
 - **Visualizations**:
