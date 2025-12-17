@@ -29,7 +29,7 @@
 - Pathfinding Algorithm_MABC
 
 ## 📃 3. Preprocessing Summary
-- **Encoding**:
+- **Encoding**: All categorical variables were converted into numerical values to make them compatible with the machine learning model.
 - **Scaling**:
 - **Cleaning steps**:
 - **Train–test split**:
