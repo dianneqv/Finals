@@ -36,7 +36,8 @@
 
 ## 📊 4. Model & Results
 - **Model used**: Logistic Regression
-  - **Metrics**:
+
+- **Metrics**:
   -  **Accuracy** =
   -  **Precision** =
   -  **Recall** =
