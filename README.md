@@ -42,7 +42,16 @@
   <p align="center">
 
 - **Visualizations**:
-- **Insights**: (3–5)
+- **Insights**:
+
+  - The model demonstrates strong overall performance, correctly predicting the majority of cases with an accuracy of approximately 87%, indicating reliable classification results. In addition, the AUC value of 0.94 is exceptionally high, showing that the model has an excellent ability to distinguish between successful and unsuccessful robot pathfinding outcomes across various decision thresholds.
+
+  - Predicting Class 0 more effectively with higher precision and recall, while performance for Class 1 is slightly lower, indicating greater difficulty in correctly identifying this class
+
+ - Collision avoidance rate and energy efficiency strongly influence the model’s predictions, showing consistent effects on pathfinding success and making them the primary predictors in decision-making.
+
+ - To further improve performance, evaluate other models such as Random Forest, Gradient Boosting, or Nueral Network, as these can better capture nonlinear relationships and complex feature interactions.
+  <p align="center">
 
 ## ▶️ 5. How to Run
 1. Install VS Code + Python + Jupyter Extension
