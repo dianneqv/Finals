@@ -35,8 +35,8 @@
 - **Train–test split**:
 
 ## 📊 4. Model & Results
-- **Model used**:
-- **Metrics**:
+- **Model used**: Logistic Regression
+- **Metrics**: 
 - **Visualizations**:
 - **Insights**: (3–5)
 
